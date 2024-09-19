@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Guía Lunar",
+    "description": "Ebook Lunar",
+    "price": 5,
+    "img": "sin imagen",
+    "code": "lunar333",
+    "stock": 10000000000000000000000000000000000
+  },
+  {
+    "id": 2,
+    "title": "Guía Diseño Humano",
+    "description": "Ebook HD",
+    "price": 7,
+    "img": "sin imagen",
+    "code": "humandesign333",
+    "stock": 10000000000000000000000000000000000
+  },
+  {
+    "id": 3,
+    "title": "Guía Tzolkin",
+    "description": "Ebook Tzolkin",
+    "price": 3,
+    "img": "sin imagen",
+    "code": "tzolkin333",
+    "stock": 10000000000000000000000000000000000
+  },
+  {
+    "id": 4,
+    "title": "Guía Astrología",
+    "description": "Ebook Astrología",
+    "price": 7,
+    "img": "sin imagen",
+    "code": "astro333",
+    "stock": 10000000000000000000000000000000000
+  },
+  {
+    "id": 5,
+    "title": "Guía Ayurveda",
+    "description": "Ebook ayurveda",
+    "price": 4,
+    "img": "sin imagen",
+    "code": "ayurveda333",
+    "stock": 10000000000000000000000000000000000
+  },
+  {
+    "id": 6,
+    "title": "Calendario lunar",
+    "description": "Tend to be sweet",
+    "price": 250,
+    "img": "sin imagen",
+    "code": "calendario33",
+    "stock": 10000000000000000000000000000000000000
+  }
+]
